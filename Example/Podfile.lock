@@ -1,0 +1,20 @@
+PODS:
+  - TKModule (0.1.0):
+    - TKModule/Core (= 0.1.0)
+  - TKModule/Core (0.1.0):
+    - TKModule/SourceMode
+  - TKModule/SourceMode (0.1.0)
+
+DEPENDENCIES:
+  - TKModule (from `../`)
+
+EXTERNAL SOURCES:
+  TKModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TKModule: 9cb955f942a9db5acf35f2883e08176e1e405831
+
+PODFILE CHECKSUM: e25514328ccf6a4422ff5c99ae29896317cccf24
+
+COCOAPODS: 1.10.1
