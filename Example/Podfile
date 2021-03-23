@@ -1,0 +1,6 @@
+use_frameworks!
+target 'TKModule_Tests' do
+  pod 'TKModule', :path => '../'
+  
+  
+end
