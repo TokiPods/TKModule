@@ -22,7 +22,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/TokiPods/TKModule'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'xianda.zheng' => 'xianda.zheng@email.com' }
+  s.author           = { 'tokihunter' => 'zhengxianda0512@gmail.com' }
   s.source           = { :git => 'https://github.com/TokiPods/TKModule.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
